@@ -6,3 +6,12 @@
     font-size: small;
     font-style: italic;
 }
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.recipe-list {
+    margin-top: 8px;
+}
